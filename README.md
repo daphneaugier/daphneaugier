@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there to my Github profile!
+
+- 🔭 I’m currently working on my personal website, friend's portfolio and Symfony site
+- 🌱 I’m currently learning Symfony 5 and Twig
+- 📫 How to reach me: daphne.augier@gmail.com
+
 
 <!--
 **daphneaugier/daphneaugier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
