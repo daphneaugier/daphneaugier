@@ -1,8 +1,8 @@
-### Hi there to my Github profile!
+### Welcome to my Github profile!
 
-- 🔭 I’m currently working on my personal website, friend's portfolio and Symfony site
-- 🌱 I’m currently learning Symfony 5 and Twig
-- 📫 How to reach me: daphne.augier@gmail.com
+- 🔭  I’m currently working on my personal website, friend's portfolio and Symfony site
+- 🌱  I’m currently learning Symfony 5 and Twig
+- 📫  How to reach me: daphne.augier@gmail.com
 
 
 <!--
