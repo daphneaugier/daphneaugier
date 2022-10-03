@@ -1,9 +1,9 @@
 ### Welcome to my Github profile!
 
-- 🔭  I’m currently working on my personal website and Mercure chat
+- 🔭  I’m currently working on my personal website and on a Discourse plugin
 
 
-- 🌱  I’m currently learning Mercure on Symfony framework
+- 🌱  I’m currently learning Ruby for Discourse plugin creation
 
 
 - 📫  How to reach me: daphne.augier@gmail.com
