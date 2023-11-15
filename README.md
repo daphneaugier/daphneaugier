@@ -1,9 +1,9 @@
 ### Welcome to my Github profile!
 
-- 🔭  I’m currently working on my personal website and on a Discourse plugin
+- 🔭  I’m currently working on my personal website and a Flutter app
 
 
-- 🌱  I’m currently learning Ruby for Discourse plugin creation
+- 🌱  I’m currently learning Flutter for an app idea
 
 
 - 📫  How to reach me: daphne.augier@gmail.com
