@@ -1,9 +1,9 @@
 ### Welcome to my Github profile!
 
-- 🔭  I’m currently working on a Flutter marketplace, my personal website, and an online radio platform
+- 🔭  I’m currently working on my personal website, and an online radio platform
 
 
-- 🌱  I’m currently learning Dart for Flutter
+- 🌱  I’m currently learning React for my online portfolio
 
 
 - 📫  How to reach me: daphne.augier@gmail.com
